@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+print(f"{name}")
+print(f"{name.upper()}")
+print(f"{name.lower()}")
+print(f"{name.title()}")
+print(f"{name.replace("a","@")}")
